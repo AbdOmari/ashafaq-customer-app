@@ -1,16 +1,29 @@
-# scrreens_second_app
+# ashafaq-customer-app
 
-A new Flutter project.
+**Alshafaq Car Wash App (Customer Side)**  
+A mobile application that allows customers to easily request car wash services from Alshafaq Company.
 
-## Getting Started
+With just a few taps, users can:
+- Schedule a car wash at their preferred **time and location**
+- Choose services while at **home**, **office**, or **roadside**
+- Enjoy a hassle-free experience through a clean and intuitive interface
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Built With
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** – cross-platform UI framework
+- **Dart** – language for business logic
+- **Firebase** (optional) – authentication and backend services
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Getting Started
+
+If you are setting this up for development:
+
+```bash
+git clone https://github.com/AbdOmari/ashafaq-customer-app.git
+cd ashafaq-customer-app
+flutter pub get
+flutter run
